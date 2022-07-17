@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: rgba(250, 212, 138, 1) no-repeat;
+    position: relative;
+    background-size: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.hat {
+    position: relative;
+    display:inline-block;
+}
+
+.hat h1{
+    font-family: "Reem Kuffi", sans-serif;
+    font-size: 36px;
+    position: absolute;
+    left: 446px;
+    top: 0px;
+}
+
+.formBtn {
+    margin-left: 446px;
+    margin-top: 258px;
+}
+
+.btn {
+    width: 451px;
+    height: 111px;
+
+    font-family: "Reem Kuffi", sans-serif;
+    font-size: 36px;
+    background: #FFAF14;
+    border-radius: 50px;
+}
+
+
+
+

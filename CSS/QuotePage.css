@@ -1,0 +1,31 @@
+.receiveQuote{
+    position: absolute;
+    width: 766px;
+    height: 195px;
+    left: 300px;
+    top: 189px;
+
+    padding: 15px 10px;
+    font-family: "Reem Kuffi", sans-serif;
+    font-size: 18px;
+    text-align: center;
+
+    background: rgba(255, 175, 20, 0.2);
+    border: 3px solid #000000;
+    box-sizing: border-box;
+    border-radius: 50px;
+
+
+}
+
+.formBtnQuote{
+    position: absolute;
+    left: 445px;
+    top: 400px;
+}
+
+p {
+    width: 700px;
+    height: 145px;
+    overflow: auto;
+}
